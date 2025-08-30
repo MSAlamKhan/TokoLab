@@ -10,10 +10,19 @@
     "test": "jest"
   },
   "dependencies": {
+    "@octokit/core": "^7.0.3",
+    "@react-native-masked-view/masked-view": "^0.3.2",
+    "@react-native/new-app-screen": "0.81.1",
+    "add": "^2.0.6",
     "react": "19.1.0",
     "react-native": "0.81.1",
-    "@react-native/new-app-screen": "0.81.1",
-    "react-native-safe-area-context": "^5.5.2"
+    "react-native-config": "^1.5.7",
+    "react-native-linear-gradient": "^2.8.3",
+    "react-native-modal": "^14.0.0-rc.1",
+    "react-native-safe-area-context": "^5.6.1",
+    "react-native-size-matters": "^0.4.2",
+    "react-native-skeleton-placeholder": "^5.2.4",
+    "yarn": "^1.22.22"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
